@@ -10,11 +10,12 @@
 }
 
 div {
+  padding: 0;
+  margin: 0;
   width: 100%;
   height: 400px;
   background-image: url('Water_place.png');
   background-size: cover;
-  border: 1px solid red;
 }
 
 body {
