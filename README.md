@@ -1,16 +1,20 @@
-body, html {
-  height: 100%;
-}
-
-.bg {
-  /* The image used */
-  background-image: url("Water_place.png");
-
-  /* Full height */
-  height: 75%;
-
-  /* Center and scale the image nicely */
-  background-position: center;
-  background-repeat: no-repeat;
-  background-size: cover;
-}
+<html>
+  <style>
+    body, html {
+      height: 100%;
+    }
+    
+    .bg {
+      /* The image used */
+      background-image: url("Water_place.png");
+    
+      /* Full height */
+      height: 75%;
+    
+      /* Center and scale the image nicely */
+      background-position: center;
+      background-repeat: no-repeat;
+      background-size: cover;
+    }
+  </style>
+</html>
