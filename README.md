@@ -12,7 +12,7 @@
 div {
   width: 100%;
   height: 400px;
-  #background-image: url('img_flowers.jpg');
+  background-image: url('Water_place.png');
   background-size: cover;
   border: 1px solid red;
 }
