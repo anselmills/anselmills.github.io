@@ -2,7 +2,7 @@
 <head>
   
 <style>
-  html {background-color: black}
+  .header { visibility: hidden; }
   .container-lg { max-width: initial; }
 
 .bg {
