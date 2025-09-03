@@ -7,6 +7,10 @@ body, html {
   margin: 0;
 }
 
+.md-grid {
+    max-width: initial;
+}
+
 .bg {
   /* The image used */
   background-image: url("/Water_place.png");
