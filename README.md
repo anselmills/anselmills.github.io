@@ -2,7 +2,7 @@
 <head>
   
 <style>
-
+  background-color: black;
   .container-lg { max-width: initial; }
 
 .bg {
@@ -13,7 +13,7 @@
   background-image: url("/Water_place.png");
 
   /* Full height */
-  height: 400px; 
+  height: 75vw; 
 
   /* Center and scale the image nicely */
   background-position: center;
@@ -24,34 +24,6 @@
 </style>
 </head>
 <body>
-<p>
-
-
-a
-a
- a
-
-
-
- a
-</p>
-<p>
-
-
-a
-a
- a
-
-
-
- a
-</p>
-
-
-
-<div class="bg"></div>
-<div class="bg"></div>
-<div class="bg"></div>
 <div class="bg"></div>
 
 <p>This example creates a full page background image. Try to resize the browser window to see how it always will cover the full screen (when scrolled to top), and that it scales nicely on all screen sizes.</p>
