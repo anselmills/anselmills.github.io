@@ -8,12 +8,14 @@
   .my-5 { margin-top: 0px; margin-bottom: 0px; }
 
 .bg {
-  max-width: 100%;
+  width: 100vw;
+  position: relative;
+  left: calc(-50vw + 50%);
   /* The image used */
   background-image: url("/Water_place.png");
 
   /* Full height */
-  height: 100%; 
+  height: 400px; 
 
   /* Center and scale the image nicely */
   background-position: center;
