@@ -12,7 +12,7 @@ body, html {
   background-image: url("/Water_place.png");
 
   /* Full height */
-  height: 100%; 
+  height: 400px; 
 
   /* Center and scale the image nicely */
   background-position: center;
@@ -20,14 +20,6 @@ body, html {
   background-size: cover;
 }
 
-div {
-  height: 100%
-  width: 100%
-  background-image: url("/Water_place.png");
-  background-position: center;
-  background-repeat: no-repeat;
-  background-size: cover;
-}
 </style>
 </head>
 <body>
