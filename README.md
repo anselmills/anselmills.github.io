@@ -12,6 +12,7 @@ body, html {
 }
 
 .bg {
+  max-width: initial;
   /* The image used */
   background-image: url("/Water_place.png");
 
