@@ -19,18 +19,20 @@ body, html {
   background-repeat: no-repeat;
   background-size: cover;
 }
-</style>
-</head>
-<body>
 
-<div>
+div {
   height: 100%
   width: 100%
   background-image: url("/Water_place.png");
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
-</div>
+}
+</style>
+</head>
+<body>
+
+
 
 <div class="bg"></div>
 
