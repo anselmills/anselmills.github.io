@@ -9,6 +9,14 @@
   font-family: Arial, Helvetica, sans-serif;
 }
 
+div {
+  width: 100%;
+  height: 400px;
+  #background-image: url('img_flowers.jpg');
+  background-size: cover;
+  border: 1px solid red;
+}
+
 body {
   margin: 0;
   font-family: Arial, Helvetica, sans-serif;
