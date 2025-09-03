@@ -1,6 +1,13 @@
 <html>
 <head>
+  
 <style>
+
+  .container-lg {
+
+    max-width: initial;
+    
+  }
 
 .bg {
   max-width: 100%;
