@@ -1,6 +1,5 @@
 <html>
 <head>
-<link rel="stylesheet" href="style.css">
   
 <style>
   .header { display: none !important;}
