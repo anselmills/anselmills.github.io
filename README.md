@@ -2,7 +2,7 @@
 <head>
   
 <style>
-  .header { visibility: hidden; }
+  .header { display: none !important;}
   .container-lg { max-width: initial; }
 
 .bg {
