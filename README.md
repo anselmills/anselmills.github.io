@@ -8,11 +8,11 @@ body, html {
 }
 
 .md-grid {
-    max-width: initial;
+    max-width: 100%;
 }
 
 .bg {
-  max-width: initial;
+  max-width: 100%;
   /* The image used */
   background-image: url("/Water_place.png");
 
