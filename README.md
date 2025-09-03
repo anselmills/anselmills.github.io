@@ -13,7 +13,7 @@
   background-image: url("/Water_place.png");
 
   /* Full height */
-  height: 400px; 
+  height: 100%; 
 
   /* Center and scale the image nicely */
   background-position: center;
