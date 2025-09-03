@@ -2,7 +2,7 @@
 <head>
   
 <style>
-  background-color: black;
+  html {background-color: black}
   .container-lg { max-width: initial; }
 
 .bg {
