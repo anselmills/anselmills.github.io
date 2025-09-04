@@ -10,6 +10,10 @@ html, body {
   
 }
 
+.header {
+  background: transparent;
+}
+
 .bgImage {
   width: 100vw;
   position: absolute;
