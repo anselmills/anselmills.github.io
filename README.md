@@ -6,12 +6,12 @@
 
 html, body {
 
-  /*overscroll-behavior: none;*/
+  overscroll-behavior: none;
   
 }
 
 .header {
-  background: transparent;
+  background: black;
 }
 
 .bgImage {
