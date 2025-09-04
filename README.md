@@ -1,5 +1,7 @@
 <html>
-</div>
+<style>
+  background-color: black;
+</style>
 <head>
   
 <style>
@@ -12,7 +14,7 @@ html, body {
 }
 
 .header {
-  background: black;
+  background-color: black;
 }
 
 .bgImage {
