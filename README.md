@@ -9,6 +9,7 @@
   position: absolute;
   left: calc(-50vw + 50%);
   margin-top: -32px;
+  z-index = -1;
   
   /* The image used */
   background-image: url("/Water_place.png");
