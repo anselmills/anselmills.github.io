@@ -9,6 +9,8 @@
   width: 100vw;
   position: relative;
   left: calc(-50vw + 50%);
+  margin-top: -32;
+  
   /* The image used */
   background-image: url("/Water_place.png");
 
