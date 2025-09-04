@@ -6,7 +6,7 @@
 
 .bgImage {
   width: 100vw;
-  position: relative;
+  position: absolute;
   left: calc(-50vw + 50%);
   margin-top: -32px;
   
