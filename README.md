@@ -4,7 +4,7 @@
 <style>
   .container-lg { max-width: initial; }
 
-.bg {
+.bgImage {
   width: 100vw;
   position: relative;
   left: calc(-50vw + 50%);
@@ -14,7 +14,7 @@
   background-image: url("/Water_place.png");
 
   /* Full height */
-  height: 75vh; 
+  height: 100vh; 
 
   /* Center and scale the image nicely */
   background-position: center;
@@ -25,8 +25,12 @@
 </style>
 </head>
 <body>
-<div class="bg"></div>
+<div class="bgImage"></div>
 
+<p>This example creates a full page background image. Try to resize the browser window to see how it always will cover the full screen (when scrolled to top), and that it scales nicely on all screen sizes.</p>
+<p>This example creates a full page background image. Try to resize the browser window to see how it always will cover the full screen (when scrolled to top), and that it scales nicely on all screen sizes.</p>
+<p>This example creates a full page background image. Try to resize the browser window to see how it always will cover the full screen (when scrolled to top), and that it scales nicely on all screen sizes.</p>
+<p>This example creates a full page background image. Try to resize the browser window to see how it always will cover the full screen (when scrolled to top), and that it scales nicely on all screen sizes.</p>
 <p>This example creates a full page background image. Try to resize the browser window to see how it always will cover the full screen (when scrolled to top), and that it scales nicely on all screen sizes.</p>
 
 </body>
