@@ -34,12 +34,14 @@ html, body {
 }
 
 </style>
-
-<p>
-  Hello this is a test!
-</p>
-
 </head>
+
+<div class="header">
+  <p>
+    Hello this is a test!
+  </p>
+</div>
+
 <body>
 <div class="bgImage"></div>
 
