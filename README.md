@@ -34,6 +34,11 @@ html, body {
 }
 
 </style>
+
+<p>
+  Hello this is a test!
+</p>
+
 </head>
 <body>
 <div class="bgImage"></div>
